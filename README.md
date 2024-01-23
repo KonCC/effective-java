@@ -13,11 +13,11 @@
 
 |          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
-| 01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%201%2C%202%2C%203.pdf) |
-| 01.09 |        item 3, 4, 5, 6        |   박지원   | [item 3-6](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%204%2C%205%2C%206.pdf) |
-| 01.13 |        item 7, 8, 9        |   홍승택   | [item 7-9](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%207%2C%208%2C%209%2C%2010%2C%2011%2C%2012.pdf) |
+| 01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/effective-java/blob/main/presentation/chapter1%2Citem2.pdf) |
+| 01.09 |        item 3, 4, 5, 6        |   박지원   | [item 3-6](https://github.com/KonCC/effective-java/blob/main/presentation/item3-item6.pdf) |
+| 01.13 |        item 7, 8, 9        |   홍승택   | [item 7-9](https://github.com/KonCC/effective-java/blob/main/presentation/item7-item9.pdf) |
 | 01.16 |        item 10, 11        |   강대훈   | [item 10-11](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2013%2C%2014%2C%2015%2C%2016%2C%2017.pdf) |
-| 01.23 |        item 12, 13, 14        |   박지원   | [item 12-14](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2018%2C%2019%2C%2020%2C%2021.pdf) |
+| 01.23 |        item 12, 13, 14        |   박지원   | [item 12-14](https://github.com/KonCC/effective-java/blob/main/presentation/item12-item14.pdf) |
 
 
 ## 🙆‍♂️🙆 함께 읽은 사람들
