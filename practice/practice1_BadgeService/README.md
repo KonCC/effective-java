@@ -1,4 +1,4 @@
-## BadgeService Refactoring
+# BadgeService Refactoring
 
 OOP의 특성을 살려 `BadgeService`의 `getNewlyRegisteredBadge()` 메서드를 리펙토링해보세요!
 
@@ -6,7 +6,7 @@ OOP의 특성을 살려 `BadgeService`의 `getNewlyRegisteredBadge()` 메서드�
 
 
 
-### 테스트
+## 테스트
 
 - `TestMain`를 실행하세요.
 
@@ -14,7 +14,7 @@ OOP의 특성을 살려 `BadgeService`의 `getNewlyRegisteredBadge()` 메서드�
 
   
 
-### 결과 예시
+## 결과 예시
 
 [Apple M1, 16GB, Java 17]
 
