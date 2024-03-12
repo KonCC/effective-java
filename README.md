@@ -22,7 +22,7 @@
 | 02.06 |        item 18, 19, 20        |   강대훈   | [item 18-20](https://github.com/KonCC/effective-java/blob/main/presentation/item18-item20.pdf) |
 | 02.13 |        item 21, 22, 23, 24, 25        |   박지원   | [item 21-25](https://github.com/KonCC/effective-java/blob/main/presentation/item21-item25.pdf) |
 | 02.20 |        item 26, 27, 28        |   홍승택   | [item 26-28](https://github.com/KonCC/effective-java/blob/main/presentation/item26-item28.pdf) |
-| 02.28 |        item 29, 30, 31        |   강대훈   | [item 28-31](https://github.com/KonCC/effective-java/blob/main/presentation/item29-item31.pdf) |
+| 02.28 |        item 29, 30, 31        |   강대훈   | [item 29-31](https://github.com/KonCC/effective-java/blob/main/presentation/item29-item31.pdf) |
 | 03.05 |        item 32, 33        |   박지원   | [item 32-33](https://github.com/KonCC/effective-java/blob/main/presentation/item32-item33.pdf) |
 | 03.12 |        item 34, 35, 36        |   홍승택   | [item 34-36](https://github.com/KonCC/effective-java/blob/main/presentation/item34-item36.pdf) |
 
