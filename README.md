@@ -16,7 +16,7 @@
 | 01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/effective-java/blob/main/presentation/chapter1%2Citem2.pdf) |
 | 01.09 |        item 3, 4, 5, 6        |   박지원   | [item 3-6](https://github.com/KonCC/effective-java/blob/main/presentation/item3-item6.pdf) |
 | 01.13 |        item 7, 8, 9        |   홍승택   | [item 7-9](https://github.com/KonCC/effective-java/blob/main/presentation/item7-item9.pdf) |
-| 01.16 |        item 10, 11        |   강대훈   | [item 10-11](https://github.com/KonCC/test-driven-development/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/chapter%2013%2C%2014%2C%2015%2C%2016%2C%2017.pdf) |
+| 01.16 |        item 10, 11        |   강대훈   | [item 10-11](https://github.com/KonCC/effective-java/blob/main/presentation/item10-item11.pdf) |
 | 01.23 |        item 12, 13, 14        |   박지원   | [item 12-14](https://github.com/KonCC/effective-java/blob/main/presentation/item12-item14.pdf) |
 | 01.30 |        item 15, 16, 17        |   홍승택   | [item 15-17](https://github.com/KonCC/effective-java/blob/main/presentation/item15-item17.pdf) |
 | 02.06 |        item 18, 19, 20        |   강대훈   | [item 18-20](https://github.com/KonCC/effective-java/blob/main/presentation/item18-item20.pdf) |
