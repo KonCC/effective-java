@@ -31,6 +31,9 @@
 | 04.11 |        item 45, 46        |   강대훈   | [item 45-46](https://github.com/KonCC/effective-java/blob/main/presentation/item45-item46.pdf) |
 | 04.30 |        item 47, 48, 49        |   박지원   | [item 47-49](https://github.com/KonCC/effective-java/blob/main/presentation/item47-item49.pdf) |
 | 05.07 |        item 50, 51        |   홍승택   | [item 50-51](https://github.com/KonCC/effective-java/blob/main/presentation/item50-item51.pdf) |
+| 05.14 |        item 52, 53        |   강대훈   | [item 52-53](https://github.com/KonCC/effective-java/blob/main/presentation/item52-item53.pdf) |
+| 05.21 |        item 54, 55, 56        |   박지원   | [item 54-56](https://github.com/KonCC/effective-java/blob/main/presentation/item54-item56.pdf) |
+| 05.28 |        item 57, 58, 59        |   홍승택   | [item 57-59](https://github.com/KonCC/effective-java/blob/main/presentation/item57-item59.pdf) |
 
 
 
