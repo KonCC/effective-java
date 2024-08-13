@@ -9,11 +9,11 @@
 - 한 명의 발표자(로테이션) - 발표 PPT 준비
 - 자신이 공부하면서 배운점이나 공유할 내용이 있으면 자유롭게 발표
 
-## 📆 스터디 일정(24.01.04 ~ 진행중)
+## 📆 스터디 일정(24.01.04 ~ 24.08.13)
 
 |          발표일           |                                       챕터                                        |        발표자       |    발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :----------------: | :--------: |
-| 01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/effective-java/blob/main/presentation/chapter1%2Citem2.pdf) |
+| 24.01.04 |        Chapter 1, item 2        |   강대훈   | [chapter 1, item 2](https://github.com/KonCC/effective-java/blob/main/presentation/chapter1%2Citem2.pdf) |
 | 01.09 |        item 3, 4, 5, 6        |   박지원   | [item 3-6](https://github.com/KonCC/effective-java/blob/main/presentation/item3-item6.pdf) |
 | 01.13 |        item 7, 8, 9        |   홍승택   | [item 7-9](https://github.com/KonCC/effective-java/blob/main/presentation/item7-item9.pdf) |
 | 01.16 |        item 10, 11        |   강대훈   | [item 10-11](https://github.com/KonCC/effective-java/blob/main/presentation/item10-item11.pdf) |
@@ -40,7 +40,9 @@
 | 07.09 |        item 73, 74, 75        |   강대훈   | [item 73-75](https://github.com/KonCC/effective-java/blob/main/presentation/item73-item75.pdf) |
 | 07.16 |        item 76, 77, 78        |   박지원   | [item 76-78](https://github.com/KonCC/effective-java/blob/main/presentation/item76-item78.pdf) |
 | 07.23 |        item 79, 80, 81        |   홍승택   | [item 79-81](https://github.com/KonCC/effective-java/blob/main/presentation/item79-item81.pdf) |
-
+|  08.01   |     item 82, 83, 84     | 강대훈 | [item 82-84](https://github.com/KonCC/effective-java/blob/main/presentation/item82-item84.pdf) |
+|  08.06   |     item 85, 86, 87     | 박지원 | [item 85-87](https://github.com/KonCC/effective-java/blob/main/presentation/item85-item87.pdf) |
+|  08.13   |     item 88, 89, 90     | 홍승택 | [item 88-90](https://github.com/KonCC/effective-java/blob/main/presentation/item88-item90.pdf) |
 
 
 ## 🙆‍♂️🙆 함께 읽은 사람들
